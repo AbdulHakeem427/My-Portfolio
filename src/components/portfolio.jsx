@@ -301,7 +301,7 @@ const Portfolio = () => {
                 </div>
                 <div className="flex items-center p-3 rounded-lg bg-gray-800/50 backdrop-blur-sm border border-gray-700 hover:border-cyan-400/50 transition-all duration-300 sm:col-span-2">
                   <Mail className="w-5 h-5 mr-3 text-cyan-400" />
-                  <span className="text-gray-300">aabdulhakeem427@email.com</span>
+                  <span className="text-gray-300">aabdulhakeem427@gmail.com</span>
                 </div>
                 
               </div>
@@ -470,7 +470,7 @@ const Portfolio = () => {
               </div>
               <h3 className="text-xl font-semibold text-white mb-2">Let's Connect</h3>
               <p className="text-lg text-gray-300 hover:text-cyan-400 transition-colors duration-300 cursor-pointer">
-                aabdulhakeem427@email.com
+                aabdulhakeem427@gmail.com
               </p>
             </div>
           </div>
